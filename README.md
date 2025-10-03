@@ -42,13 +42,13 @@ The dataset comes from **RedBus / Analytics Vidhya challenge**, containing milli
 
    * Root Mean Squared Error (RMSE)
    * Relative / Normalized RMSE (`RMSE / mean(y)`) for better interpretability.
-   * Achieved **Relative RMSE ~0.19** on test data.
+   * Achieved **Relative RMSE ~0.17** on test data.
 
 ---
 
 ## 📊 Results
 
-* **Relative RMSE (Train)**: **0.18**
+* **Relative RMSE (Train)**: **0.19**
 * **Relative RMSE (Test)**: **0.17**
 
 The LSTM successfully models sequential booking/search trends and provides robust demand forecasts.
